@@ -9,8 +9,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 NOTE : FREQUENTLY ASKED QUESTIONS 
 ----------------------------------
 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
-
+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
 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
+
 1. What is Template Stock?
 
 	Template Stock is an initiative of AgileITs to provide free web designs which are cross device supported.
